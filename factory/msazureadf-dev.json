@@ -1,0 +1,9 @@
+{
+	"name": "msazureadf-dev",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7686392-0970-4094-820b-976b06edf764",
+		"tenantId": "ee69a3b2-bcaa-423b-b3b7-606f6b51f129"
+	}
+}
